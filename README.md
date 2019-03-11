@@ -1,2 +1,2 @@
 # sdsp-server
-Softhaxi Development Stage using Python as server
+Softhaxi Diboof using Python as server
